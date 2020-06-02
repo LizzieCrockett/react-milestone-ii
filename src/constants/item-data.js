@@ -1,36 +1,36 @@
 let items = [
     {
         id: 0,
-        name: "Apple iPad",
-        description: "An iPad like no other. WiFi, 4G, lots of storage.",
+        name: "Item One",
+        description: "An item I haven't yet determined on.",
         price: 329.00,
         image: ""
     },
     {
         id: 1,
-        name: "Apple iPad Pro",
-        description: "Even more expensive than the regular iPad.",
+        name: "Item two",
+        description: "An item I haven't yet determined on either.",
         price: 799.00,
         image: ""
     },
     {
         id: 2,
-        name: "Canon T7i",
-        description: "DSLR camera with lots of megapixels.",
+        name: "Item three",
+        description: "An item I still haven't yet determined on.",
         price: 749.99,
         image: ""
     },
     {
         id: 3,
-        name: "Canon T7i",
-        description: "DSLR camera with lots of megapixels.",
+        name: "Item four",
+        description: "Still haven't decided what this will be.",
         price: 749.99,
         image: ""
     },
     {
         id: 4,
-        name: "Canon T7i",
-        description: "DSLR camera with lots of megapixels.",
+        name: "Item five",
+        description: "I should get on with stocking the shop.",
         price: 749.99,
         image: ""
     }
