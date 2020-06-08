@@ -4,7 +4,7 @@ let items = [
         name: "Item One",
         description: "An item I haven't yet determined on.",
         price: 329.00,
-        image: ""
+        image: './stamp.jpg'
     },
     {
         id: 1,

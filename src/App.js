@@ -44,7 +44,7 @@ const App = () => {
         <Nav activeTab={activeTab}
           onTabChange={setActiveTab} />
         <div className="main-content">
-          <Content tab={activeTab} onAddToCart={addToCart} onRemoveItem={removeItem} cart={summariseCart(cart)} />
+        <Content tab={activeTab} onAddToCart={addToCart} onRemoveItem={removeItem} cart={summariseCart(cart)} />
         </div>
       </div>
     </div>
