@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-milestone-ii/static/css/main.5ab45726.chunk.css",
-    "main.js": "/react-milestone-ii/static/js/main.b6c7f734.chunk.js",
-    "main.js.map": "/react-milestone-ii/static/js/main.b6c7f734.chunk.js.map",
+    "main.css": "/react-milestone-ii/static/css/main.be9023da.chunk.css",
+    "main.js": "/react-milestone-ii/static/js/main.28ae7aea.chunk.js",
+    "main.js.map": "/react-milestone-ii/static/js/main.28ae7aea.chunk.js.map",
     "runtime-main.js": "/react-milestone-ii/static/js/runtime-main.35dfd481.js",
     "runtime-main.js.map": "/react-milestone-ii/static/js/runtime-main.35dfd481.js.map",
     "static/js/2.abde4baf.chunk.js": "/react-milestone-ii/static/js/2.abde4baf.chunk.js",
     "static/js/2.abde4baf.chunk.js.map": "/react-milestone-ii/static/js/2.abde4baf.chunk.js.map",
     "index.html": "/react-milestone-ii/index.html",
-    "precache-manifest.dd7a05f987d53cec8ee75178fb6866a9.js": "/react-milestone-ii/precache-manifest.dd7a05f987d53cec8ee75178fb6866a9.js",
+    "precache-manifest.6287b02873600414264108963d0afa52.js": "/react-milestone-ii/precache-manifest.6287b02873600414264108963d0afa52.js",
     "service-worker.js": "/react-milestone-ii/service-worker.js",
-    "static/css/main.5ab45726.chunk.css.map": "/react-milestone-ii/static/css/main.5ab45726.chunk.css.map",
+    "static/css/main.be9023da.chunk.css.map": "/react-milestone-ii/static/css/main.be9023da.chunk.css.map",
     "static/js/2.abde4baf.chunk.js.LICENSE.txt": "/react-milestone-ii/static/js/2.abde4baf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.35dfd481.js",
     "static/js/2.abde4baf.chunk.js",
-    "static/css/main.5ab45726.chunk.css",
-    "static/js/main.b6c7f734.chunk.js"
+    "static/css/main.be9023da.chunk.css",
+    "static/js/main.28ae7aea.chunk.js"
   ]
 }
