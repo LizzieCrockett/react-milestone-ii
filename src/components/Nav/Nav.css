@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+
 .nav {
     margin: 20px;
     padding: 10px;
-    border-bottom: 2px solid #508fca;
+    border-bottom: 2px solid palegreen;
     }
   
 .nav ul {
@@ -10,7 +12,8 @@
     }
   
 .nav button {
-    font-size: 18px;
+    font-size: 24px;
+    font-family: 'Fredericka the Great', cursive;
     background: transparent;
     border: none;
     cursor: pointer;
@@ -29,6 +32,7 @@
       }
   
 .nav-item.selected {
-      border-bottom-color: #ffaa3f;
+      background-color: pink;
+      border: none;
       }
   

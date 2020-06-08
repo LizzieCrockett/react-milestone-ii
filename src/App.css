@@ -1,6 +1,11 @@
+body {
+  background-image: url('https://raw.githubusercontent.com/LizzieCrockett/react-milestone-ii/master/src/images/desktop.png');
+}
+
 .wrapper {
   max-width: 500px;
   margin: 0 auto;
+  background-color: aliceblue;
   }
 
 
@@ -12,6 +17,6 @@
 
   @media screen and (max-width: 1000px) {
     body {
-      background-color: azure;
+      background-image: url('https://raw.githubusercontent.com/LizzieCrockett/react-milestone-ii/master/src/images/handheld.png');
     }
   }

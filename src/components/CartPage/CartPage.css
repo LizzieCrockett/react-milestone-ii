@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Crafty+Girls&display=swap');
+
 .cart-page-items {
     margin: 0;
     padding: 0;
@@ -31,4 +33,10 @@
   font-size: 25px;
   padding-right: 10px;
   margin-top: 20px;
+}
+
+button {
+  font-family: 'Crafty Girls', cursive;
+  background-color: peachpuff;
+  border: none;
 }

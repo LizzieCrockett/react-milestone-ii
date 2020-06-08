@@ -5,7 +5,7 @@ const CartEmpty = () => {
     return (
         <div className="empty-cart-message">
             <h1>Your Cart is Empty</h1>
-            <h2>Go spend some money.</h2>
+            <h2>Spend some money.</h2>
         </div>
     )
 }
