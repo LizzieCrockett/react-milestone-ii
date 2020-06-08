@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+
 .welcome-message {
     text-align: center;
+    font-family: 'Architects Daughter', cursive;
 }
